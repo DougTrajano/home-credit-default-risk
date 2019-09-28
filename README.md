@@ -20,4 +20,4 @@ Python: 3.7.x
 
 ---
 
-[![LinkedIn](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/linkedin-128.png)](https://www.linkedin.com/in/douglas-trajano/)
+<a href="https://www.linkedin.com/in/douglas-trajano/" target="_blank">![LinkedIn](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/linkedin-128.png)</a>
