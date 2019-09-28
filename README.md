@@ -6,9 +6,9 @@ This repo contains my final project on Udacity Data Scientist nanodegree! \o/
 
 Pending
 
-## Requeriments
+## Requirements
 
-All dependences are available on `requeriments.txt`.
+All dependences are available on `requirements.txt`.
 
 Python: 3.7.x
 
