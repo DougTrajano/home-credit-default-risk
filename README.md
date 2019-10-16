@@ -4,6 +4,12 @@ This repo contains my final project on Udacity Data Scientist nanodegree! \o/
 
 I decided to use a dataset from Kaggle. this dataset was provided by Home Credit and the objective is predict if the applicant's will repayed or not their loan.
 
+## Motivation
+
+My motivation to work with this project is that I really want to apply artificial intelligence in financial systems, and I love Kaggle Community, it's a amazing experience be part of this.
+
+## Strategy 
+
 To work in this project I broke it into 5 steps.
 
 ![](https://github.com/DougTrajano/udacity_capstone_project/blob/master/images/presentation.png)
@@ -11,6 +17,18 @@ To work in this project I broke it into 5 steps.
 I find some algorithm that can works and some needs to improve the results.
 
 You can see more in Medium's post [here](https://medium.com/@dougtrajano/ia-applied-in-credit-risk-home-credit-b70412ef8f02).
+
+## Results and conclusions
+
+Let’s see below the Kaggle Score for each algorithm that I tried here.
+
+![](https://miro.medium.com/max/759/1*wtQiADcUh-Q3QgqJOy5gJA.png)
+
+We can see that RandomForest performs better than LGBMClassifier in the real world. It’s my first experience with LGBMClassifier, but I always works with RandomForest to solve this type of problem. I think that we can try more parameters and a better data preparation to get more results with this algorithm.
+
+We started with understanding the data, applying techniques to handle with missing values, PCA, relevant features, etc. Then, we create some models and to finalize, we send files with predictions to get the real score from Kaggle Competition.
+
+---
 
 ## File descriptions
 
@@ -31,3 +49,4 @@ You can see more in Medium's post [here](https://medium.com/@dougtrajano/ia-appl
 All dependences are available on `requirements.txt`.
 
 - Python: 3.7.x
+
