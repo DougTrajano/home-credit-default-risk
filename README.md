@@ -46,7 +46,14 @@ We started with understanding the data, applying techniques to handle with missi
 
 ## Requirements
 
-All dependences are available on `requirements.txt`.
-
 - Python: 3.7.x
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- os
+- sklearn
+- tensorflow
 
+All dependences are available on `requirements.txt` as well.
